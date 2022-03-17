@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Vue js, backend technologies
 - 💞️ I’m looking to collaborate on open source web apps and projects
 - 📫 How to reach me 
-    linkedin: https://www.linkedin.com/in/mwafy/
-    email: mus.mwafy@gmail.com
-    phone: +201010009646
+    - linkedin: https://www.linkedin.com/in/mwafy/
+    - email: mus.mwafy@gmail.com
+    - phone: +201010009646
 
 <!---
 mustafamwafy/mustafamwafy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
